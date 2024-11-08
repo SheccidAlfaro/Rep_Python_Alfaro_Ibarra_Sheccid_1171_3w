@@ -42,7 +42,12 @@ Repaso de Python
 ![image](https://github.com/user-attachments/assets/37d9d779-00d2-44d7-a543-8558248351b1)
 
 # Practica 11
+![image](https://github.com/user-attachments/assets/521823f5-fd75-4a95-b7f3-6de5bc85ccae)
+![image](https://github.com/user-attachments/assets/05488016-1b8f-421e-a3ae-2ac93692479c)
 
 # Practica 12
+![image](https://github.com/user-attachments/assets/66317149-3f7c-428c-a394-5b1a5e2b704f)
+![image](https://github.com/user-attachments/assets/501de3ea-fa6c-49f4-aa69-6a2306892dff)
+
 
 
